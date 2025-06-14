@@ -4,6 +4,11 @@
 ![Terminal](https://img.shields.io/badge/Terminal-Simple-green)
 
 ---
+## 목차
+[소개](#소개)
+[기능](#기능)
+[사용 방법](#사용-방법)
+---
 
 ## 소개
 
