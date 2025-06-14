@@ -2,6 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Terminal](https://img.shields.io/badge/Terminal-Simple-green)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 ## 목차
 [소개](#소개)
