@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Terminal](https://img.shields.io/badge/Terminal-Simple-green)
 
----
 ## 목차
 [소개](#소개)
 [기능](#기능)
