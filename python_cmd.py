@@ -1,6 +1,6 @@
 import time, random, socket, platform, os, datetime
 def welcome():
-    print("파이썬 cmd\n버전 0")
+    print("파이썬 cmd\n버전 0.1.1")
 welcome()
 hn = socket.gethostname()
 ip = socket.gethostbyname(hn)
