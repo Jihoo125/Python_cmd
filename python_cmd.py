@@ -1,4 +1,4 @@
-import time, random, socket, platform, os
+import time, random, socket, platform, os, datetime
 def welcome():
     print("파이썬 cmd\n버전 0")
 welcome()
@@ -13,8 +13,10 @@ while True:
     elif msg == "exit":
         exit(0)
     elif msg == "date":
-        d = str(time.localtime())
-        print(d[25:29]+"년"+d[38:40]+"월"+d[49:51]+"일")
+        """d = str(time.localtime())
+        print(d[25:29]+"년"+d[38:40]+"월"+d[49:51]+"일")"""
+        d = datetime.datetime.now()
+        print(str(d)[:10])
     elif msg == "time":
         t = time.ctime()
         print(t[11:20])
